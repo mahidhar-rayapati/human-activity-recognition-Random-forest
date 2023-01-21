@@ -10,4 +10,4 @@
 ## Why random forest:
 - It takes less training time as compared to other algorithms.
 - It predicts output with high accuracy, even for the large dataset it runs efficiently.
-- It can also maintain accuracy when a large proportion of data is missing
+- It can also maintain accuracy when a large proportion of data is missing.
